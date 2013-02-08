@@ -1,0 +1,15 @@
+{
+    "name": "Basic Youtube Looper",
+    "manifest_version": 2,
+    "version": "0.1",
+    "description": "it basically really just loops youtube videos… but it's cool'",
+    "browser_action": {
+        "default_popup": "popup.html"
+    },
+    "background": {
+        "scripts": ["background.js"]
+    },
+    "permissions": [
+        "tabs", "http://*/*", "https://*/*"
+    ]
+}
