@@ -1,0 +1,1 @@
+This is my repository for all of my projects and things. Use it wisely. I doubt many people will see this, as this is more just for me to copy stuff between computers quickly, but if I'm ever passing off a project to anyone, then you'll see this. Have fun. 
